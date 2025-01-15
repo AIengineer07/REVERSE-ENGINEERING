@@ -4,8 +4,6 @@
 
 This repository contains a collection of Python scripts designed for cloning of facebook accounts and phishing tasks. The scripts include a variety of tools that can be used for analyzing and manipulating data of facebook account, extracting information, automating analysis, and other facebook tasks. I decoded these scripts from cypthon and many layers so i named my repository to Reverse Engineering
 
-## MY 2ND FACEBOOK CONTACT HERE 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://www.facebook.com/KABIRSINGH2119)
 
 ## Table of Contents
 - [Introduction](#introduction)
