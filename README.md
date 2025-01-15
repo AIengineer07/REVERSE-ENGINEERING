@@ -2,16 +2,12 @@
 
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
-This repository contains a collection of Python scripts designed for reverse engineering tasks. The scripts include a variety of tools that can be used for analyzing and manipulating binaries, extracting information, automating analysis, and other reverse engineering tasks.
+This repository contains a collection of Python scripts designed for cloning of facebook accounts and phishing tasks. The scripts include a variety of tools that can be used for analyzing and manipulating data of favebook account, extracting information, automating analysis, and other facebook tasks. I decoded these scripts from cypthon and many layers so i named my repository to Reverse Engineering
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
-- [Available Scripts](#available-scripts)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+ - [Goals ](#Goals)
+
 
 ## Introduction
 
